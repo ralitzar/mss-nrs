@@ -1,0 +1,9 @@
+[submodule "microservices/dataset-builder"]
+	path = microservices/dataset-builder
+	url = https://github.com/ralitzar/mss-nrs-dataset-builder.git
+[submodule "microservices/model-trainer"]
+	path = microservices/model-trainer
+	url = https://github.com/ralitzar/mss-nrs-model-trainer.git
+[submodule "microservices/prediction"]
+	path = microservices/prediction
+	url = https://github.com/ralitzar/mss-nrs-prediction.git
